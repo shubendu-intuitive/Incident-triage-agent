@@ -377,6 +377,23 @@ When the graph reaches `human_checkpoint`:
 
 ---
 
+## Screenshots
+
+### Main investigation feed — live step streaming
+![Main screen](images/main_screen.png)
+
+### Completed investigation with final triage report
+![Investigation result](images/main_screen_result.png)
+
+### Admin dashboard — live graph and system info
+![Admin Telemetry view](images/admin1.png)
+
+### Admin dashboard — tools explorer
+![Admin Graph view](images/admin2.png)
+
+### Admin dashboard — LLM inspector
+![Admin LLM inspector](images/admin3.png)
+
 ## Author
 
 Shubendu Biswas
