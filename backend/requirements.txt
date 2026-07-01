@@ -1,0 +1,14 @@
+
+fastapi
+uvicorn[standard]
+langchain
+langgraph
+langchain-openai
+langchain-ollama
+langchain-core
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+python-multipart
+websockets
