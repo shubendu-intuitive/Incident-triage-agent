@@ -367,16 +367,6 @@ When the graph reaches `human_checkpoint`:
 
 ---
 
-## Documentation
-
-| File | Contents |
-|---|---|
-| `README.md` | Setup, architecture, feature reference |
-| `INTERVIEW_GUIDE.md` | Deep-dive walkthrough of all three scenarios, design decisions, interview Q&A |
-| `AGENTIC_AI_CONCEPTS.md` | Standalone reference: agents, ReAct, tool calling, HITL, LangGraph, production failure modes |
-
----
-
 ## Screenshots
 
 ### Main investigation feed — live step streaming
@@ -385,10 +375,10 @@ When the graph reaches `human_checkpoint`:
 ### Completed investigation with final triage report
 ![Investigation result](images/main_screen_result.png)
 
-### Admin dashboard — live graph and system info
+### Admin dashboard — Telemetry view
 ![Admin Telemetry view](images/admin1.png)
 
-### Admin dashboard — tools explorer
+### Admin dashboard — Graph view
 ![Admin Graph view](images/admin2.png)
 
 ### Admin dashboard — LLM inspector
